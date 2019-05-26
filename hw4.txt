@@ -1,0 +1,4 @@
+1. a) It is a class A network. 
+   b) CIDR: /8. Base 10: 255.0.0.0
+   c) 1) 10.3.12.1
+   c) 2) 10.3.12.255  
